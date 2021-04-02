@@ -46,6 +46,7 @@ The book in front of you is a translation of the official CEH book and education
 
 🔸 [Authors](#authors)<br>
 🔸 [Demo](#demo)<br>
+🔸 [BookCollection](#bookcollection)<br>
 
 </div>
 
@@ -413,6 +414,19 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 👇Click on the link below to see the E-Book Demo!👇😉
 
 ## (E-Book Demo): 🔺(Coming Soon)🔺
+
+
+</article>
+
+---
+
+## BookCollection
+
+<article id="bookcollection">
+  
+  |TensorFlow Tutorial |ArtificialIntelligence  |[SoftwareEngineering<br>Training](https://github.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining)  |SoftwareTesting Tutorial |
+|-----------|--------------------|-----------|--------------------|
+|[<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Book_ComprehensiveDatabasesTraining/main/Cover/Book_TensorFlow.jpeg"></p>](https://google.com)|[<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Book_ComprehensiveDatabasesTraining/main/Cover/Book_ArtificialIntelligence.jpeg"></p>](https://google.com)|[<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Book_ComprehensiveDatabasesTraining/main/Cover/Book_SoftwareEngineering.jpeg"></p>](https://github.com/mmohammadi4820/Book_SoftwareEngineering_Tutorial)|[<p><img src="https://raw.githubusercontent.com/Mohammadimh76/Book_ComprehensiveDatabasesTraining/main/Cover/Book_SoftwareTesting.jpeg"></p>](https://google.com)|
 
 
 </article>
