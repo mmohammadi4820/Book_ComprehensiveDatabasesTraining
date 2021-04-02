@@ -349,7 +349,7 @@ Neo4j is implemented in Java and accessible from software written in other langu
 ### The First: "Mahsa Mohammadi"
 
 <p align="center">
-  <img width="360" height="360" src="https://raw.githubusercontent.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining/main/Authors/MahsaMohammadi.jpeg">
+  <img width="320" height="320" src="https://raw.githubusercontent.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining/main/Authors/MahsaMohammadi.jpeg">
 </p>
 
 Coming soon...
