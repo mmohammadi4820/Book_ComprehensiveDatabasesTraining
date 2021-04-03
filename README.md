@@ -3,8 +3,9 @@
 ---
 
 ## 〽️Introduction:
-One of the most famous and practical security documents is the CEH certificate or the specialized certificate of legal hackers. The CEH certification is a security certification to assess individuals' skills in securing enterprise systems and networks and help them counter hacker attacks and intrusions. In this course, people will become familiar with hacking techniques and methods and security checklists. They will be able to check systems and networks' security status to identify and eliminate their weaknesses.<br>
-The book in front of you is a translation of the official CEH book and educational slides related to this degree and some personal experiences of the authors. Efforts have been made to make the text of the book as fluent as possible so that its primary purpose, which is to convey the message, is adequately fulfilled.<br>
+A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.<be>
+The database management system (DBMS) is the software that interacts with end users, applications, and the database itself to capture and analyze the data. The DBMS software additionally encompasses the core facilities provided to administer the database. The sum total of the database, the DBMS and the associated applications can be referred to as a "database system". Often the term "database" is also used to loosely refer to any of the DBMS, the database system or an application associated with the database.<be>
+Computer scientists may classify database-management systems according to the database models that they support. Relational databases became dominant in the 1980s. These model data as rows and columns in a series of tables, and the vast majority use SQL for writing and querying data. In the 2000s, non-relational databases became popular, referred to as NoSQL because they use different query languages.<be>
 
 
 
