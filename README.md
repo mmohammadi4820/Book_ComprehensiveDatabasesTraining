@@ -425,9 +425,9 @@ I am Biomedical Engineer from University of Isfahan. My research interests is No
 
 <article id="bookcollection">
   
-  |TensorFlow Tutorial |ArtificialIntelligence  |[SoftwareEngineering<br>Training](https://github.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining)  |[SoftwareTesting Tutorial](https://github.com/mmohammadi4820/Book_SoftwareTesting_Tutorial) |
+  |TensorFlow Tutorial |[ArtificialIntelligence]  |[SoftwareEngineering<br>Training](https://github.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining)  |[SoftwareTesting Tutorial](https://github.com/mmohammadi4820/Book_SoftwareTesting_Tutorial) |
 |-----------|--------------------|-----------|--------------------|
-|[<p><img src="https://raw.githubusercontent.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining/main/Cover/Book_TensorFlow.jpeg"></p>](https://google.com)|[<p><img src="https://raw.githubusercontent.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining/main/Cover/Book_ArtificialIntelligence.jpeg"></p>](https://google.com)|[<p><img src="https://raw.githubusercontent.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining/main/Cover/Book_SoftwareEngineering.jpeg"></p>](https://github.com/mmohammadi4820/Book_SoftwareEngineering_Tutorial)|[<p><img src="https://raw.githubusercontent.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining/main/Cover/Book_SoftwareTesting.jpeg"></p>](https://github.com/mmohammadi4820/Book_SoftwareTesting_Tutorial)|
+|[<p><img src="https://raw.githubusercontent.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining/main/Cover/Book_TensorFlow.jpeg"></p>](https://google.com)|[<p><img src="https://raw.githubusercontent.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining/main/Cover/Book_ArtificialIntelligence.jpeg"></p>](https://github.com/mmohammadi4820/Book_ArtificialIntelligence)|[<p><img src="https://raw.githubusercontent.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining/main/Cover/Book_SoftwareEngineering.jpeg"></p>](https://github.com/mmohammadi4820/Book_SoftwareEngineering_Tutorial)|[<p><img src="https://raw.githubusercontent.com/mmohammadi4820/Book_ComprehensiveDatabasesTraining/main/Cover/Book_SoftwareTesting.jpeg"></p>](https://github.com/mmohammadi4820/Book_SoftwareTesting_Tutorial)|
 
 
 </article>
